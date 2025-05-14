@@ -1,4 +1,4 @@
-# Robokalam Admin Dashboard
+# Robokalam Admin Dashboard assignment .
 
 A responsive web-based Admin Dashboard built with React.js and TypeScript for Robokalam. The application features a login screen, a data table to manage resident data, and an analytics chart for visualization.
 
@@ -15,7 +15,7 @@ A responsive web-based Admin Dashboard built with React.js and TypeScript for Ro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/robokalam-dashboard.git
+git clone https://github.com/jashu171/Robokalam-assignment.git
 cd robokalam-dashboard/project
 ```
 
@@ -65,5 +65,6 @@ This project is for educational/demo purposes for the Robokalam internship asses
 ## 📬 Contact
 
 For any queries or issues, please reach out at:
-- 📧 your-email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 jashwanthboddupally@gmail.com
+- 💼 https://www.linkedin.com/in/jashwanth-boddupally-64068b289/
+- phone :- 9010767269
